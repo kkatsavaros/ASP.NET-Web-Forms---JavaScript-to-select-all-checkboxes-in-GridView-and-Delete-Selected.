@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a7433925-aef5-4bd1-bbdb-d50f4a0717b4": {
+      "ProjectGuid": "a7433925-aef5-4bd1-bbdb-d50f4a0717b4",
+      "DisplayName": "s02.JavaScriptConfirmOnGridviewDelete",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
